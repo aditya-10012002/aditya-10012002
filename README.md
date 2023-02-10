@@ -36,10 +36,4 @@ A full-stack web developer with experience in Deep learning (**NLP**) through an
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express&logoColor=white&color=9cf"> <img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Keras-43853D?style=for-the-badge&logo=keras&logoColor=white&color=darkred">
 ...and many others
 
-
-### My Favorite Project Repos
-* <a href="https://github.com/2009-fsa-cs-ashes-archers/JobMapApp">JavaScript Jobs USA</a> - Mapbox Job Search Tool
-* <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
-* <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker
-
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002)](https://github.com/aditya-10012002/github-readme-stats) -->
