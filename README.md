@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey, I'm Aditya 👋</h1> 
-An enthusiastic learner in computer science and engineering in my final year of college at [NIT Warangal](https://www.nitw.ac.in/).<br><br>
+An enthusiastic learner in computer science and engineering in my final year of college at <a href="https://www.nitw.ac.in/">NIT Warangal</a>.<br><br>
 I am a final year B.Tech CSE student and a highly motivated web developer with a good grasp of the various technologies used in this field like HTML, CSS, Bootstrap, JavaScript, MERN-stack, etc while learning new ones. I am also interested in Deep Learning with an internship experience in this field.
 > I like listening to music, reading web novels, skateboarding, and coding :)
 
