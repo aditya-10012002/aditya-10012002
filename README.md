@@ -28,7 +28,7 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 ---
 
 - 🔭 I’m currently working on building my skills in Web-Dev
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working with NLP.
 - ⚡ Fun fact: Sheldon Cooper from Big Bang Theory is much better at this than me.
 
 ---
