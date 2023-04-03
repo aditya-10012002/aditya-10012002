@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <p align="center">An enthusiastic learner in computer science and engineering in my final year of college at <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br><br>
 I am a final year B.Tech CSE student and a highly motivated web developer with a good grasp of the various technologies used in this field like HTML, CSS, Bootstrap, JavaScript, MERN-stack, etc while learning new ones. I am also interested in Deep Learning with an internship experience in this field.<br><br>
 
+![Profile views](https://gpvc.arturio.dev/aditya-10012002)
+
 > I like listening to music, reading web novels, skateboarding, and coding :)
 
 ---
@@ -45,4 +47,12 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 ...and many others
 </div>
 
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002)](https://github.com/aditya-10012002/github-readme-stats) -->
+---
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditya-10012002&theme=tokyonight)](https://github.com/aditya-10012002/github-readme-stats)
+
+<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002)](https://github.com/aditya-10012002/github-readme-stats)
