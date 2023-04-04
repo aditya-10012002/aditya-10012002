@@ -51,7 +51,7 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditya-10012002&theme=tokyonight)](https://github.com/aditya-10012002/github-readme-stats)
 
