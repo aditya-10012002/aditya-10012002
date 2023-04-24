@@ -33,12 +33,10 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 - 🌱 I’m currently working with NLP.
 - ⚡ Fun fact: Sheldon Cooper from Big Bang Theory is much better at this than me.
 
----
 
 <h2 align="center">📫 Get In Touch</h2>
 <a href="mailto:adityakr1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/aditya1001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCerjVzyni1FaeFoum7-ECSw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/adi_1.00.1/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=maroon"></a> <a href="https://twitter.com/AdityaK41533650"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a> <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
----
 
 <h2 align="center">👯 What I Work With</h2>
 <div align="left">
@@ -47,11 +45,20 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 ...and many others
 </div>
 
----
+<h2 align="center">🔥 Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+<img align="right" width="40%" src="https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+  <a href="https://github.com/aditya-10012002"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/aditya-10012002"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aditya-10012002&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/aditya-10012002"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile&theme=tokyonight&show_icons=true"></a>
+
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditya-10012002&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
+
+<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=tokyonight&show_icons=true)](https://github.com/aditya-10012002)
 
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-10012002)](https://github.com/aditya-10012002/github-readme-stats)
 
