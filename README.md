@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey, I'm Aditya 👋</h1> 
+
+![Pink Gaming Facebook Cover](https://user-images.githubusercontent.com/53975591/234213386-d3d0ee41-70b3-46e0-9869-5f7b9b0682ce.png)
+
 <p align="center">An enthusiastic learner in computer science and engineering in my final year of college at <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br><br>
 I am a final year B.Tech CSE student and a highly motivated web developer with a good grasp of the various technologies used in this field like HTML, CSS, Bootstrap, JavaScript, MERN-stack, etc while learning new ones. I am also interested in Deep Learning with an internship experience in this field.<br><br>
 
