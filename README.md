@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 ![Pink Gaming Facebook Cover](https://user-images.githubusercontent.com/53975591/234213386-d3d0ee41-70b3-46e0-9869-5f7b9b0682ce.png)
 
 <p align="center">An enthusiastic learner in computer science and engineering in my final year of college at <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br><br>
-I am a final year B.Tech CSE student and a highly motivated web developer with a good grasp of the various technologies used in this field like HTML, CSS, Bootstrap, JavaScript, MERN-stack, etc while learning new ones. I am also interested in Deep Learning with an internship experience in this field.<br><br>
+I am a final year B.Tech CSE student with a strong passion for web development. I have a comprehensive understanding of various technologies used in this field such as HTML, CSS, Bootstrap, JavaScript, and MERN-stack. Additionally, I am constantly learning new technologies to enhance my skills. I also possess an interest in Deep Learning and have gained valuable internship experience in this domain.<br><be>
 
-![Profile views](https://gpvc.arturio.dev/aditya-10012002)
+<!-- ![Profile views](https://gpvc.arturio.dev/aditya-10012002) -->
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-10012002&style=for-the-badge)
 
 > I like listening to music, reading web novels, skateboarding, and coding :)
 
@@ -58,7 +61,7 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 <h2 align="center">👯 What I Work With</h2>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,redux,styledcomponents,latex,git,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,vscode,postman,linux)](https://skillicons.dev) <span>...and many others</span>
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,redux,styledcomponents,latex,git,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,vscode,postman,linux,spring)](https://skillicons.dev) <span>...and many others</span>
  
 <!--
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -98,11 +101,12 @@ I am a final year B.Tech CSE student and a highly motivated web developer with a
 
 <h2 align="center">🔥 Github Stats</h2>
 
-<img align="right" width="43%" src="https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
-
+<!-- <img align="right" width="43%" src="https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
+-->
   <a href="https://github.com/aditya-10012002"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aditya-10012002&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/aditya-10012002"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aditya-10012002&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <a href="https://github.com/aditya-10012002"><img width="50%" src="https://github-readme-stats-abtrax.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&username=aditya-10012002"></a>
+  <a href="https://github.com/aditya-10012002"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10012002&layout=donut&theme=radical"></a>
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
