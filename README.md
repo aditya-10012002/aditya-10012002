@@ -61,7 +61,7 @@ I am a final year B.Tech CSE student with a strong passion for web development. 
 <h2 align="center">👯 What I Work With</h2>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,redux,styledcomponents,latex,git,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,vscode,postman,linux,spring)](https://skillicons.dev) <span>...and many others</span>
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,redux,styledcomponents,latex,git,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,vscode,postman,linux,spring)](https://skillicons.dev) <span>...and many others</span>
  
 <!--
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
