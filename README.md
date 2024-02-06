@@ -50,6 +50,8 @@ I am a final year B.Tech CSE student with a strong passion for web development. 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCerjVzyni1FaeFoum7-ECSw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@adityakr1001"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/adi_1.00.1/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=maroon"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/AdityaK41533650"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
