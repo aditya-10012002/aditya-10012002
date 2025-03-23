@@ -23,21 +23,19 @@ Here are some ideas to get you started:
 
 ![Pink Gaming Facebook Cover](https://user-images.githubusercontent.com/53975591/234213386-d3d0ee41-70b3-46e0-9869-5f7b9b0682ce.png)
 
-<p align="center">An enthusiastic learner in computer science and engineering in my final year of college at <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br><br>
-I am a final year B.Tech CSE student with a strong passion for web development. I have a comprehensive understanding of various technologies used in this field such as HTML, CSS, Bootstrap, JavaScript, and MERN-stack. Additionally, I am constantly learning new technologies to enhance my skills. I also possess an interest in Deep Learning and have gained valuable internship experience in this domain.<br><be>
+<p align="center">AI enthusiastic working at Wells Fargo as a SDE and a CS graduate of <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br>
+I like listening to Japanese music and Orchestras, reading web novels, practising piano, and yeah, of course, coding as well.<br><be>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/aditya-10012002) -->
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-10012002&style=for-the-badge)
 
-> I like listening to music, reading web novels, skateboarding, and coding :)
 
-
-- 🔭 I’m currently working on building my skills in Web-Dev and AI.
-- 🌱 I’m currently working with NLP.
-- 👯 I’m looking to collaborate on some open-source projects.
-- 💬 Ask me about web development and NLP in deep learning.
+- 🔭 I’m currently working on my skills in ML and Gen AI.
+- 🌱 I’m also currently learning Japanese Language.
+- 👯 I’m looking to collaborate on some DDPM-based research, open-source projects.
+- 💬 Ask me about - Dropshipping, Forex, YouTube, Webnovels, Philosophy and Tech.
 - ⚡ Fun fact: Sheldon Cooper from Big Bang Theory is much better at this than me.
 
 
@@ -63,7 +61,7 @@ I am a final year B.Tech CSE student with a strong passion for web development. 
 <h2 align="center">👯 What I Work With</h2>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,redux,styledcomponents,latex,git,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,vscode,postman,linux,spring)](https://skillicons.dev) <span>...and many others</span>
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts,androidstudio,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,redux,styledcomponents,latex,git,jenkins,nodejs,express,mongodb,tensorflow,firebase,netlify,vercel,postman,linux,kali,spring)](https://skillicons.dev) 
  
 <!--
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
