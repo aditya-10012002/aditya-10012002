@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey, I'm Aditya 👋</h1> 
 
-![Pink Gaming Facebook Cover](https://user-images.githubusercontent.com/53975591/234213386-d3d0ee41-70b3-46e0-9869-5f7b9b0682ce.png)
+![Cover Image](<https://media-hosting.imagekit.io//55639ec226014bcc/Untitled%20design%20(1).png?Expires=1837409664&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IoYuPJEL1ZvFwqteZvNnaPLg60XCjcQ6w~3wOdmMYVtQf7cwsM9D1zbJaqbfLgsCUw~4n~e~VEFDmAPWC9-QS8hD0hFU4HUWvUoxT7PVpYARn4Xvf0h770kiiM6Nv2vqLEMHgVZgRnkcxC00tRiP~ebaqjxQknjEDcC1dVy39gqcZ~-nqebJl9f~4TT3yD1q~Sqm5r3lTaG~Mi2hSU9aDdGh5BY8sH7ymWLZc7XOKjQ3oKNPQeEUhwh3MSjawUMGmQxLOrCHfAzslgkeN3IqZKK-iU5cgWvCZ2ST~T8ZYN0nUmWIKONQXaCOm13bJ0Y8BtF2caNNctnwkDsRyqR3VA__>)
+<!-- ![Pink Gaming Facebook Cover](https://user-images.githubusercontent.com/53975591/234213386-d3d0ee41-70b3-46e0-9869-5f7b9b0682ce.png) -->
 
 <p align="center">AI enthusiastic working at Wells Fargo as a SDE and a CS graduate of <a href="https://www.nitw.ac.in/">NIT Warangal</a>.</p><br>
 I like listening to Japanese music and Orchestras, reading web novels, practising piano, and yeah, of course, coding as well.<br><be>
