@@ -57,9 +57,9 @@ I like listening to Japanese music and Orchestras, reading web novels, practisin
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/unsplash-D14836?style=for-the-badge&logo=unsplash&logoColor=black&color=white"></a>
+  <a href="https://unsplash.com/@adi_1001"><img src="https://img.shields.io/badge/unsplash-D14836?style=for-the-badge&logo=unsplash&logoColor=black&color=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/pexels-D14836?style=for-the-badge&logo=pexels&logoColor=black&color=white"></a>
+  <a href="https://www.pexels.com/@aditya-kumar-sharma-744535080/"><img src="https://img.shields.io/badge/pexels-D14836?style=for-the-badge&logo=pexels&logoColor=black&color=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
