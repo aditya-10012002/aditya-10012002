@@ -53,9 +53,13 @@ I like listening to Japanese music and Orchestras, reading web novels, practisin
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/adi_1.00.1/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=maroon"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/AdityaK41533650"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
+  <a href="https://twitter.com/AdityaK41533650"><img src="https://img.shields.io/badge/twitter-D14836?style=for-the-badge&logo=x&logoColor=white&color=black"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/unsplash-D14836?style=for-the-badge&logo=unsplash&logoColor=black&color=white"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://aditya-10012002.github.io/"><img src="https://img.shields.io/badge/pexels-D14836?style=for-the-badge&logo=pexels&logoColor=black&color=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
