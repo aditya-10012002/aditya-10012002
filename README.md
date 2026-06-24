@@ -45,7 +45,7 @@ I build intelligent systems, explore generative AI, and love creating tools that
 </a>
 
 <a href="https://github.com/aditya-10012002/Portfolio">
-<img width="420" src="https://opengraph.githubassets.com/1/aditya-10012002/Portfolio">
+<img width="420" src="https://opengraph.githubassets.com/1/aditya-10012002/PR-Review-AI-Agent">
 </a>
 </p>
 
